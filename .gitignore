@@ -1,0 +1,7 @@
+/.vscode
+/venv
+/flasker/__pycache__
+/model/__pycache__
+/.idea
+/flaskr/__pycache__
+/webpage/node_modules
