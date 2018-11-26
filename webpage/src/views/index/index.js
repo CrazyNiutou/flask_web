@@ -23,6 +23,11 @@ function validate_form(thisform) {
 }
 
 function test() {
-    var flag = new Boolean("false");
+    var re=/JavaScript rules/;
+    var str="JavaScript rules";
+    if(re.test(str))
+    {
+        document.writeln("test")
+    }
     alert(flag)
 }
