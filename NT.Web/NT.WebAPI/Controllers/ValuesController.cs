@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using NT.Services;
 
 namespace NT.WebAPI.Controllers
 {
@@ -12,9 +14,12 @@ namespace NT.WebAPI.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        [Authorize]
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            var test = UsersServices.Instance.Exist("qwe");
+            return "123";
+            //return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5

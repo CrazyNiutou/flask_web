@@ -4,3 +4,6 @@ D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp
 D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp2.1\NT.Framework.Data.csproj.CoreCompileInputs.cache
 D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp2.1\NT.Framework.Data.AssemblyInfoInputs.cache
 D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp2.1\NT.Framework.Data.AssemblyInfo.cs
+D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\bin\Debug\netcoreapp2.1\NT.Framework.Data.pdb
+D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp2.1\NT.Framework.Data.dll
+D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Data\obj\Debug\netcoreapp2.1\NT.Framework.Data.pdb

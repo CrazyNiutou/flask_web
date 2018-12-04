@@ -2,12 +2,9 @@
 {
     public class DBString
     {
-        public string WebKey
-        {
-            get
-            {
-                return "NT.Web";
-            }
-        }
+
+
+        public static string ConnectString { get; set; }
+
     }
 }

@@ -10,6 +10,14 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="ServiceStack.OrmLite.MySql.Core" Version="5.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0.Framework\NT.Framework.Common\NT.Framework.Common.csproj" />
+    <ProjectReference Include="..\0.Framework\NT.Framework.Data\NT.Framework.Data.csproj" />
+    <ProjectReference Include="..\1.Biz\NT.Services\NT.Services.csproj" />
   </ItemGroup>
 
 </Project>
