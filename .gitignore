@@ -5,3 +5,4 @@
 /.idea
 /flaskr/__pycache__
 /webpage/node_modules
+/flaskr/env
