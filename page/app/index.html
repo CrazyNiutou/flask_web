@@ -12,46 +12,29 @@
 
 <body>
     <header id="page_header">
-        <h1>测试博客</h1>
-    </header>
-
-    <section id="posts">
-        <article id="post">
-            <header>
-                <h2>标题</h2>
-                <p>test by test on <time datetime="2019-01-01"> </time></p>
-                <aside>
-                    <p>asideasideaside </p>
-                </aside>
-            </header>
-            <p>
-                内容内容内容内容内容内容内容内容内容内容内容内容内容内容
-            </p>
-            <footer>
-                <p>qwe</p>
-            </footer>
-
-        </article>
-    </section>
-    <section id="sidebar">
-        <nav>
-            <h3>sidebarsidebars</h3>
-            <ul>
-                <li><a href="#">sidebar</a></li>
+        <nav id="nav_header">
+            <ul id="ul_header">
+                <li><a href="#">首页</a></li>
+                <li><a href="#">普通</a></li>
+                <li><a href="#">会员</a>
+                    <ul class="drop">
+                        <div>
+                            <li><a href="#">scss</a></li>
+                            <li><a href="#">jquery</a></li>
+                            <li><a href="#">html</a></li>
+                        </div>
+                    </ul>
+                </li>
+                <div id="marker"></div>
             </ul>
         </nav>
+    </header>
+    <section id="page_body">
+
     </section>
     <footer id="page_footer">
-        <P>page_footerpage_footerpage_footerpage_footerpage_footerpage_footerpage_footer</P>
-        <nav>
-            <ul>
-                <li><a href="#">关于我们</a></li>
-            </ul>
-        </nav>
-    </footer>
 
-    <meter title="test" min="0" max="5000" value="1111"></meter>
-    <progress title="test" min="0" max="5000" value="1111"></progress>
+    </footer>
 
 </body>
 
