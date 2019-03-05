@@ -1,9 +1,0 @@
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\bin\Debug\netcoreapp2.1\NT.Entity.deps.json
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\bin\Debug\netcoreapp2.1\NT.Entity.dll
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.csproj.CoreCompileInputs.cache
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.AssemblyInfoInputs.cache
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.AssemblyInfo.cs
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\bin\Debug\netcoreapp2.1\NT.Entity.pdb
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.csprojAssemblyReference.cache
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.dll
-D:\Work\Code\flask_web\NT.Web\1.Biz\NT.Entity\obj\Debug\netcoreapp2.1\NT.Entity.pdb

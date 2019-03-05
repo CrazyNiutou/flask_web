@@ -1,9 +1,0 @@
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.csprojAssemblyReference.cache
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.csproj.CoreCompileInputs.cache
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.AssemblyInfoInputs.cache
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.AssemblyInfo.cs
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\bin\Debug\netcoreapp2.1\NT.Framework.Common.deps.json
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\bin\Debug\netcoreapp2.1\NT.Framework.Common.dll
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\bin\Debug\netcoreapp2.1\NT.Framework.Common.pdb
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.dll
-D:\Work\Code\flask_web\NT.Web\0.Framework\NT.Framework.Common\obj\Debug\netcoreapp2.1\NT.Framework.Common.pdb
